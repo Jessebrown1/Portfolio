@@ -13,8 +13,8 @@
                 <h1 className="home-title"><span>I'm Isaac Bentum</span> <br /> Web Developer</h1>
                 
                 <p className="home-description">
-                I am a Ghana-based front-end developer with experience in building modern, responsive, and user-friendly websites. 
-                I am passionate about creating clean designs and functional interfaces that make technology simple and enjoyable for users.
+                I am a Ghana-based front-end developer skilled in building modern, responsive, and user-focused websites. I combine clean design with functional interfaces to deliver accessible,
+                efficient, and impactful digital solutions.
                 </p>
             
                 <Link to='about' className='button'>

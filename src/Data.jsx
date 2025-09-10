@@ -12,6 +12,7 @@
     import skillsImg8 from './assets/adobe-xd-logo.svg';
     import skillsImg9 from './assets/adobe-photoshop-logo.svg';
     import skillsImg10 from './assets/invision-logo.svg';
+    import skillImg11 from './assets/skillsImg11.svg'
 
     import projectImg1 from './assets/project-1.jpg';
     import projectImg2 from './assets/project-2.jpg';
@@ -65,22 +66,22 @@
             export const personalInfo = [
                 {
                 title: 'First Name : ',
-                description: 'Steve',
+                description: 'Isaac',
                 },
             
                 {
                 title: 'Last Name : ',
-                description: 'Milner',
+                description: 'Bentum',
                 },
             
                 {
                 title: 'Age : ',
-                description: '27 Years',
+                description: '28 Years',
                 },
             
                 {
                 title: 'Nationality : ',
-                description: 'Tunisian',
+                description: 'Ghanaian',
                 },
             
                 {
@@ -90,27 +91,27 @@
             
                 {
                 title: 'Address : ',
-                description: 'Tunis',
+                description: 'Accra, Ghana',
                 },
             
                 {
                 title: 'Phone : ',
-                description: '+21621184010',
+                description: '+233552384351',
                 },
             
                 {
                 title: 'Email : ',
-                description: 'you@mail.com',
+                description: 'Jnbentum@gmail.com',
                 },
             
                 {
                 title: 'Skype : ',
-                description: 'steve.milner',
+                description: '...',
                 },
             
                 {
-                title: 'Langages : ',
-                description: 'French, English',
+                title: 'Languages : ',
+                description: 'English',
                 },
             ];
 
@@ -119,23 +120,23 @@
 
                 export const stats = [
                     {
-                    no: '12+',
+                    no: '2+',
                     title: 'Years of <br /> Experience',
                     },
                 
                     {
-                    no: '97+',
+                    no: '10+',
                     title: 'Completed <br /> Projects',
                     },
                 
                     {
-                    no: '81+',
+                    no: '6+',
                     title: 'Happy <br /> Customers',
                     },
                 
                     {
-                    no: '53+',
-                    title: ' Awards <br /> Won',
+                    no: '5+',
+                    title: ' Technologies <br /> Mastered',
                     },
                 ];
 
@@ -146,7 +147,7 @@
                     id: 1,
                     img: skillsImg1,
                     title: 'HTML',
-                    level: 'Intermediate',
+                    level: 'Advanced',
                     category: 'developer',
                     },
                 
@@ -170,7 +171,7 @@
                     id: 4,
                     img: skillsImg4,
                     title: 'React',
-                    level: 'Basic',
+                    level: 'Intermediate',
                     category: 'developer',
                     },
                 
@@ -186,25 +187,10 @@
                     id: 6,
                     img: skillsImg6,
                     title: 'Figma',
-                    level: 'Advanced',
-                    category: 'designer',
-                    },
-                
-                    {
-                    id: 7,
-                    img: skillsImg7,
-                    title: 'Sketch',
-                    level: 'Basic',
-                    category: 'designer',
-                    },
-                
-                    {
-                    id: 8,
-                    img: skillsImg8,
-                    title: 'Adobe XD',
                     level: 'Intermediate',
                     category: 'designer',
                     },
+                
                 
                     {
                     id: 9,
@@ -213,70 +199,61 @@
                     level: 'Intermediate',
                     category: 'designer',
                     },
-                
+
                     {
-                    id: 10,
-                    img: skillsImg10,
-                    title: 'InvisionApp',
-                    level: 'Basic',
-                    category: 'designer',
-                    },
+                        id: 10,
+                        img: skillImg11,
+                        title: 'Canva',
+                        level: 'Intermediate',
+                        category: 'designer',
+                        },
                 ];
 
 
                     export const resume = [
                         {
-                        id: 1,
-                        category: 'experience',
-                        icon: <RiBriefcase4Fill />,
-                        year: '2018 - Present',
-                        title: 'Web Developer <span> Envato </span>',
-                        desc: 'Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit.',
-                        },
+                            id: 1,
+                            category: 'experience',
+                            icon: <RiBriefcase4Fill />,
+                            year: '2022 - Present',
+                            title: 'Frontend Developer <span> Freelance </span>',
+                            desc: 'Built modern, responsive websites and web apps for clients and personal projects using React, HTML, CSS, and JavaScript.',
+                            },
                     
-                        {
-                        id: 2,
-                        category: 'experience',
-                        icon: <RiBriefcase4Fill />,
-                        year: '2013 - 2018',
-                        title: 'UI/UX Designer <span> Themeforest </span>',
-                        desc: 'Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt.',
-                        },
+                            {
+                                id: 2,
+                                category: 'experience',
+                                icon: <RiBriefcase4Fill />,
+                                year: '2019 - 2025',
+                                title: 'Sales Representative <span> Local Business </span>',
+                                desc: 'Worked in sales for 4 years, gaining strong communication, teamwork, and client engagement skills.',
+                                },
                     
-                        {
-                        id: 3,
-                        category: 'experience',
-                        icon: <RiBriefcase4Fill />,
-                        year: '2005 - 2013',
-                        title: 'Consultant <span> Videohive </span>',
-                        desc: 'Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt.',
-                        },
+                                {
+                                    id: 3,
+                                    category: 'experience',
+                                    icon: <RiBriefcase4Fill />,
+                                    year: '2023 - 2024',
+                                    title: 'Junior Web Designer <span> Self-Learning </span>',
+                                    desc: 'Learned web design principles, responsive layouts, and UI/UX fundamentals while building small projects.',
+                                },
                     
                         {
                         id: 4,
                         category: 'education',
                         icon: <RiGraduationCapFill />,
-                        year: '2015',
-                        title: 'Engineering Degree <span> Oxford University </span>',
-                        desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore.',
+                        year: '2019-2023',
+                        title: 'Information Technology Diploma <span> Koforidua Technical University </span>',
+                        desc: 'Gained a strong foundation in computer systems, IT support, and digital technologies, with exposure to networking, databases, and basic software applications.',
                         },
                     
                         {
                         id: 5,
                         category: 'education',
                         icon: <RiGraduationCapFill />,
-                        year: '2012',
-                        title: 'Master Degree <span> KIEV University </span>',
-                        desc: 'Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt.',
-                        },
-                    
-                        {
-                        id: 6,
-                        category: 'education',
-                        icon: <RiGraduationCapFill />,
-                        year: '2009',
-                        title: 'Bachelor Degree <span> Tunis High School </span>',
-                        desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore.',
+                        year: '2024-Present',
+                        title: 'Bachelor Degree <span> Ghana Comunication Technology University</span>',
+                        desc: 'Developed a strong foundation in programming through Java and C++, gaining problem-solving skills and understanding of software development principles.',
                         },
                     ];
 
