@@ -1,5 +1,5 @@
     import React from 'react'
-    import Info from '../../src/Components/info';
+    import Info from '../../src/Components/Info';
     import Cv from '../../src/assets/pdf/steve-cv.pdf'
     import { RiDownload2Line } from "react-icons/ri";
     import Stats from '../../src/Components/Stats';
