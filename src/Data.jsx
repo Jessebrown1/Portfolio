@@ -264,7 +264,7 @@
                             img: projectImg1,
                             title: 'Estate Website',
                             description:
-                                'Short description of the project that was carried out in this portfolio.',
+                                'A responsive real estate website built with React and Tailwind. Features property listings with images, details, and price listings, providing a seamless browsing experience across devices.',
                             skills: [skillsImg4, skillsImg5],
                             link: 'https://estate-neon-seven.vercel.app',
                             },
@@ -274,7 +274,7 @@
                             img: projectImg2,
                             title: 'Car Parts Website',
                             description:
-                                'Short description of the project that was carried out in this portfolio.',
+                                'An e-commerce platform for buying and selling car spare parts, built with React and Tailwind CSS. Includes product listings with car brand, model, and condition details, along with a clean, responsive UI optimized for fast navigation and usability.',
                             skills: [skillsImg4, skillsImg5],
                             link: 'https://ghautoshopx.vercel.app',
                             },
@@ -285,7 +285,7 @@
                             img: projectImg4,
                             title: 'Barbershop Website',
                             description:
-                                'Short description of the project that was carried out in this portfolio.',
+                                'A modern barbershop website built with HTML, JavaScript, and Tailwind CSS. Features a booking system for appointments, a gallery of hairstyles, and an intuitive layout that ensures easy navigation for clients.',
                             skills: [skillsImg1, skillsImg3, skillsImg5],
                             link: 'https://barber-shop-henna.vercel.app/clone.html',
                             },
@@ -295,7 +295,7 @@
                             img: projectImg5,
                             title: 'NGO Website',
                             description:
-                                'Short description of the project that was carried out in this portfolio.',
+                                'A clean and informative NGO website designed with HTML, JavaScript, CSS. Built to showcase the organization’s mission, welfare projects, and impact, with responsive layouts and easy navigation for donors and volunteers.',
                             skills: [skillsImg1, skillsImg2, skillsImg3],
                             link: 'https://ngo-jade.vercel.app',
                             },
