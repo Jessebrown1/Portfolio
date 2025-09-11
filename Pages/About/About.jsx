@@ -1,6 +1,6 @@
     import React from 'react'
     import Info from '../../src/Components/Info';
-    import Cv from '../../src/assets/pdf/steve-cv.pdf'
+    import Cv from '../../src/assets/pdf/Isaac-Bentum.pdf'
     import { RiDownload2Line } from "react-icons/ri";
     import Stats from '../../src/Components/Stats';
     import { skill } from '../../src/Data';

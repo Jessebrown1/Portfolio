@@ -262,51 +262,42 @@
                             {
                             id: 1,
                             img: projectImg1,
-                            title: 'Coffee Website',
+                            title: 'Estate Website',
                             description:
                                 'Short description of the project that was carried out in this portfolio.',
                             skills: [skillsImg4, skillsImg5],
-                            link: '',
+                            link: 'https://estate-neon-seven.vercel.app',
                             },
                         
                             {
                             id: 2,
                             img: projectImg2,
-                            title: 'Food Product Design',
+                            title: 'Car Parts Website',
                             description:
                                 'Short description of the project that was carried out in this portfolio.',
-                            skills: [skillsImg6, skillsImg7],
-                            link: '',
+                            skills: [skillsImg4, skillsImg5],
+                            link: 'https://ghautoshopx.vercel.app',
                             },
+                        
                         
                             {
                             id: 3,
-                            img: projectImg3,
-                            title: 'Restaurant Landing Page',
-                            description:
-                                'Short description of the project that was carried out in this portfolio.',
-                            skills: [skillsImg1, skillsImg2, skillsImg3],
-                            link: '',
-                            },
-                        
-                            {
-                            id: 4,
                             img: projectImg4,
                             title: 'Barbershop Website',
                             description:
                                 'Short description of the project that was carried out in this portfolio.',
-                            skills: [skillsImg4, skillsImg5],
-                            link: '',
+                            skills: [skillsImg1, skillsImg3, skillsImg5],
+                            link: 'https://barber-shop-henna.vercel.app/clone.html',
                             },
                         
                             {
-                            id: 5,
+                            id: 4,
                             img: projectImg5,
-                            title: 'Construction Landing Page',
+                            title: 'NGO Website',
                             description:
                                 'Short description of the project that was carried out in this portfolio.',
                             skills: [skillsImg1, skillsImg2, skillsImg3],
-                            link: '',
+                            link: 'https://ngo-jade.vercel.app',
                             },
                         ];
 
