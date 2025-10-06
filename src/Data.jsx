@@ -19,6 +19,8 @@
     import projectImg3 from './assets/project-3.jpg';
     import projectImg4 from './assets/project-4.jpg';
     import projectImg5 from './assets/project-5.jpg';
+    import projectimg6 from './assets/project-6.jpg';
+    import projectimg7 from './assets/project-7.jpg';
 
 
     import Theme1 from './assets/red.png';
@@ -289,16 +291,38 @@
                             skills: [skillsImg1, skillsImg3, skillsImg5],
                             link: 'https://barber-shop-henna.vercel.app/clone.html',
                             },
-                        
+
+
+
                             {
-                            id: 4,
-                            img: projectImg5,
-                            title: 'NGO Website',
-                            description:
-                                'A clean and informative NGO website designed with HTML, JavaScript, CSS. Built to showcase the organization’s mission, welfare projects, and impact, with responsive layouts and easy navigation for donors and volunteers.',
-                            skills: [skillsImg1, skillsImg2, skillsImg3],
-                            link: 'https://ngo-jade.vercel.app',
-                            },
+                                id: 4,
+                                img: projectimg6,
+                                title: 'Graphics Designer Website',
+                                description:
+                                    'Created a graphic design portfolio website using React, Tailwind CSS, and GSAP, featuring an animated header with a Hyperspeed background effect. The animation gives the site a futuristic and creative feel while maintaining smooth performance and responsiveness. Designed to showcase design projects through a clean, visually engaging interface with fluid transitions and modern aesthetics.',
+                                skills: [skillsImg4, skillsImg5],
+                                link: 'https://designer-gahz5djli-browns-projects-7b28d4f0.vercel.app',
+                                },
+
+                                {
+                                    id: 5,
+                                    img: projectimg7,
+                                    title: 'Food Ordering Website',
+                                    description:
+                                        'Built a responsive food ordering web app using React and Tailwind CSS that allows users to browse menus, view meal details, and place food orders seamlessly. The app features a modern user interface, dynamic components, and smooth navigation for an intuitive user experience. Focused on performance, reusable React components, and clean Tailwind-based styling for consistency and speed.',
+                                    skills: [skillsImg4, skillsImg5],
+                                    link: 'https://foodapp-phi-azure.vercel.app',
+                                    },
+                        
+                            //{
+                            //id: 4,
+                            //img: projectImg5,
+                           // title: 'NGO Website',
+                           // description:
+                           //     'A clean and informative NGO website designed with HTML, JavaScript, CSS. Built to showcase the organization’s mission, welfare projects, and impact, with responsive layouts and easy navigation for donors and volunteers.',
+                           // skills: [skillsImg1, skillsImg2, skillsImg3],
+                           // link: 'https://ngo-jade.vercel.app',
+                           // },
                         ];
 
 
